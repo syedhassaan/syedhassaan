@@ -1,6 +1,10 @@
 ### Hi there, I'm Hassaan 👋
 
 [![Syed Hassaan Hasan](https://img.shields.io/badge/syedhassaanhasan-LinkedIn-blue)](https://www.linkedin.com/in/syed-hassaan-hasan/)
+#
+### :man_technologist: About Me :
+
+
 <!--
 **syedhassaan/syedhassaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
